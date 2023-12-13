@@ -7,12 +7,12 @@
 </p>
 
 <p align="center">
-  Hello! I'm Daniel Rodado, a Full Stack Web Developer from Colombia!
+  I'm a Full Stack Java Web Developer!
 </p>
 
 - 💬 Ask me about **Java, Spring, JavaScript, VUE.js, HTML, CSS**
 
-- 📫 How to reach me: **d4nielrodado@gmail.com** or <a href="https://www.linkedin.com/in/daniel-rodado-b24432210/" >
+- 📫 How to reach me: **d4nielrodado@gmail.com** or, more about me, <a href="https://www.linkedin.com/in/daniel-rodado-b24432210/" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
