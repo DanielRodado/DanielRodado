@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java, Spring, JavaScript, VUE.js, HTML, CSS**
 
-- 📫 How to reach me: **danielrodado2@gmail.com** or, more about me, <a href="https://www.linkedin.com/in/daniel-rodado-b24432210/" >
+- 📫 How to reach me: **danielrodado2@gmail.com** or, more about me, <a href="https://www.linkedin.com/in/daniel-rodado-b24432210/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 
