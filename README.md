@@ -18,7 +18,7 @@
 
     
 
-### 🛠️ Languages and Tools: 
+### 🛠️ Languages and Tools:
 
 <div align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="text-decoration:none;"> 
