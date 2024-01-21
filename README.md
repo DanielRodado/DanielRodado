@@ -59,7 +59,7 @@
   </a>
 </div>
 
-### 🚀 My Projects: 
+### 🚀 My Projects:
 
 1. **E-commerce - WineShop**
    - [Link to Project](https://github.com/DanielRodado/wineshop)
