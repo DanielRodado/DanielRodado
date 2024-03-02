@@ -64,7 +64,7 @@
 1. **E-commerce - WineShop**
    - [Link to Project](https://github.com/DanielRodado/wineshop)
 
-2. **HomeBanking - Finovate-Bank**
+2. **Home banking - Finovate-Bank**
    - [Link to Project](https://github.com/DanielRodado/homebanking)
 
 3. **PetShop - PetPalace**
