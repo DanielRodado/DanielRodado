@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Daniel Rodado</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Developer;Continuous+Learning;Efficient+Coder;Agile+Practitioner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=Full+Stack+Java+Web+Developer;Continuous+Learning;Efficient+Coder;Agile+Practitioner" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -47,6 +47,6 @@
 _Visit my portfolio for more information about my background :_  
 
 
-[![Portfolio](https://img.shields.io/badge/portfolio-2962FF?style=for-the-badge&logo=portfolio&logoColor=white)]((https://danielrodado.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/portfolio-2962FF?style=for-the-badge&logo=portfolio&logoColor=white)](https://danielrodado.netlify.app/)
 
 ---
